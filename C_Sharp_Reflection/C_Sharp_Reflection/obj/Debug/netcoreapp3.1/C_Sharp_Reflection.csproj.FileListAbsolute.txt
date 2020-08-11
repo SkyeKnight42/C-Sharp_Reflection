@@ -1,0 +1,13 @@
+C:\Users\Fierce\Desktop\Netmatters\C#\Reflection\C_Sharp_Reflection\C_Sharp_Reflection\bin\Debug\netcoreapp3.1\C_Sharp_Reflection.exe
+C:\Users\Fierce\Desktop\Netmatters\C#\Reflection\C_Sharp_Reflection\C_Sharp_Reflection\bin\Debug\netcoreapp3.1\C_Sharp_Reflection.deps.json
+C:\Users\Fierce\Desktop\Netmatters\C#\Reflection\C_Sharp_Reflection\C_Sharp_Reflection\bin\Debug\netcoreapp3.1\C_Sharp_Reflection.runtimeconfig.json
+C:\Users\Fierce\Desktop\Netmatters\C#\Reflection\C_Sharp_Reflection\C_Sharp_Reflection\bin\Debug\netcoreapp3.1\C_Sharp_Reflection.runtimeconfig.dev.json
+C:\Users\Fierce\Desktop\Netmatters\C#\Reflection\C_Sharp_Reflection\C_Sharp_Reflection\bin\Debug\netcoreapp3.1\C_Sharp_Reflection.dll
+C:\Users\Fierce\Desktop\Netmatters\C#\Reflection\C_Sharp_Reflection\C_Sharp_Reflection\bin\Debug\netcoreapp3.1\C_Sharp_Reflection.pdb
+C:\Users\Fierce\Desktop\Netmatters\C#\Reflection\C_Sharp_Reflection\C_Sharp_Reflection\obj\Debug\netcoreapp3.1\C_Sharp_Reflection.csprojAssemblyReference.cache
+C:\Users\Fierce\Desktop\Netmatters\C#\Reflection\C_Sharp_Reflection\C_Sharp_Reflection\obj\Debug\netcoreapp3.1\C_Sharp_Reflection.AssemblyInfoInputs.cache
+C:\Users\Fierce\Desktop\Netmatters\C#\Reflection\C_Sharp_Reflection\C_Sharp_Reflection\obj\Debug\netcoreapp3.1\C_Sharp_Reflection.AssemblyInfo.cs
+C:\Users\Fierce\Desktop\Netmatters\C#\Reflection\C_Sharp_Reflection\C_Sharp_Reflection\obj\Debug\netcoreapp3.1\C_Sharp_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Fierce\Desktop\Netmatters\C#\Reflection\C_Sharp_Reflection\C_Sharp_Reflection\obj\Debug\netcoreapp3.1\C_Sharp_Reflection.dll
+C:\Users\Fierce\Desktop\Netmatters\C#\Reflection\C_Sharp_Reflection\C_Sharp_Reflection\obj\Debug\netcoreapp3.1\C_Sharp_Reflection.pdb
+C:\Users\Fierce\Desktop\Netmatters\C#\Reflection\C_Sharp_Reflection\C_Sharp_Reflection\obj\Debug\netcoreapp3.1\C_Sharp_Reflection.genruntimeconfig.cache

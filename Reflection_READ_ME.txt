@@ -1,0 +1,1 @@
+I have by default added 3 cars with statistics to the program to make testing the functionality for myself, and the marker easier. 
